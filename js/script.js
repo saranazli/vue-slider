@@ -26,10 +26,17 @@ createApp({
 
     next(){
       this.counter++
+      if(this.counter === this.imgs.length){
+        this.counter=0
+      }
     },
 
     prev(){
       this.counter--
+    },
+
+    continuo(){
+     
     }
 
   },
