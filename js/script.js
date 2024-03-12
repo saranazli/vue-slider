@@ -35,10 +35,6 @@ createApp({
       this.counter--
     },
 
-    continuo(){
-     
-    }
-
   },
 
   mounted(){
