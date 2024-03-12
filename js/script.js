@@ -7,7 +7,7 @@ createApp({
 
     return{
 
-      img : [
+      imgs : [
 
         './img/01.webp',
         './img/02.webp',
